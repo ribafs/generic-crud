@@ -23,6 +23,7 @@ https://github.com/ribafs/generic-crud
 ## Referências
 
 - http://www.devwilliam.com.br/php/crud-generico-com-php-e-pdo
+- https://www.phpzag.com/object-oriented-crud-operation-with-php-and-mysql/
 - Várias outras referências: gist do Github, Stackoverflow, etc.
 - https://www.kodingmadesimple.com/2017/01/simple-ajax-pagination-in-jquery-php-pdo-mysql.html (Paginação)
 
