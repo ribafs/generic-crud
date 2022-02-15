@@ -4,7 +4,7 @@ Partindo de um pequeno script de paginação que usa o plugin do jQuery bootpag 
 
 ## Recursos:
 
-- Paginação
+- Paginação warning
 - Busca
 - Bootstrap
 - PDO
