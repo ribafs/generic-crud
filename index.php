@@ -36,8 +36,6 @@
                     <th>ID</th>
                     <th>Nome</th>
                     <th>Email</th>
-                    <th>Nascimento</th>
-                    <th>CPF</th>
                 </tr>
             </thead>
             <tbody id="pg-results">
